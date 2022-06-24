@@ -1,2 +1,0 @@
-from .vqa import VQA
-

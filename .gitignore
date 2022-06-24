@@ -1,0 +1,7 @@
+pmr_result*
+model/pretrained_model
+result_*
+*__pycache__*
+*ipynb_checkpoints*
+data/pmr
+
