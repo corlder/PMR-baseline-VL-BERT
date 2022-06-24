@@ -1,7 +1,7 @@
 # VL-BERT for PMR
 This is a baseline model of PMR based on VL-BERT, which is adapted from [this repo](https://github.com/jackroos/VL-BERT), many thanks to the authors for open source resource.
 ## Requirements
-Follow the [instruction](https://github.com/jackroos/VL-BERT#prepare) to install the requirements, but please note that `Apex` is neccessary to training with our code.
+Follow the [instruction](https://github.com/jackroos/VL-BERT#prepare) to install the requirements, but please note that `Apex` is necessary to training with our code.
 ## Data
 Please arrange the data in `data/` as follows. `images/` is the directory of `images.zip` after unzipping.
 ```
@@ -16,7 +16,7 @@ data/
 └── PREPARE_DATA.md
 ```
 ## Pre-trained weights
-We conducted experiments with `vl-bert-base-e2e.model` and `vl-bert-large-e2e.model`. You can download all neccessary pre-trained models and find more details [here](https://github.com/jackroos/VL-BERT/blob/master/model/pretrained_model/PREPARE_PRETRAINED_MODELS.md), and files are supposed to be arranged like this.
+We conducted experiments with `vl-bert-base-e2e.model` and `vl-bert-large-e2e.model`. You can download all necessary pre-trained models and find more details [here](https://github.com/jackroos/VL-BERT/blob/master/model/pretrained_model/PREPARE_PRETRAINED_MODELS.md), and files are supposed to be arranged like this.
 ```
 model/
 └── pretrained_model
